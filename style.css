@@ -1,0 +1,18 @@
+/*normilize.css import*/
+@import url("normalize.css");
+/*END normilize.css import*/
+
+/*base css rules*/
+html{
+	background-color: #a56364;
+}
+h1{
+	color: #a2cc55;
+	text-align: center;
+	text-transform: uppercase;
+}
+.row{
+	display: flex;
+	justify-content: space-around;
+	font-family: cursive;
+}
