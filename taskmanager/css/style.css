@@ -41,3 +41,7 @@ input{
 	background-color: #83a221;
     color: #fff;
 }
+.btn input:hover{
+	box-shadow: rgba(122,231,211,0.5) 5px 5px 10px 0;
+	color: #000;
+}
