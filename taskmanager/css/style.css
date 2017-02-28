@@ -1,0 +1,43 @@
+/* normilize.css import */
+@import url("normalize.css");
+/* END normilize.css import */
+
+/* base css rules */
+html{
+	background-color: #632324;
+}
+.logform{
+	padding-top: 5em;
+}
+h1{
+	color: #c1c1c1;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: serif;
+}
+p{
+	color: #fff;
+	font-weight: 700;
+}
+input{
+	border: 1px solid #000;
+    border-radius: 12px;
+    font-size: 1.25em;
+    color: red;
+    padding-left: 10px;
+    background-color: #e0d8d8;
+}
+.user-data{
+	padding-top: 1em;
+    padding-left: 50%;
+    margin-left: -150px;
+}
+.btn{
+	padding-left: 50%;
+	margin-left: -40px;
+}
+.btn input{
+	border-radius: 5px;
+	background-color: #83a221;
+    color: #fff;
+}
